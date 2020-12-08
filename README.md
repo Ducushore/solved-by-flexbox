@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/philipwalton/solved-by-flexbox)
+
 # Solved by Flexbox
 
 A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
